@@ -10,5 +10,4 @@ def run_age_calculator():
     print(f"You are {age} years old.")
     return age
 if __name__ == "__main__":
-    run_age_calculator()
-    
+    run_age_calculator()  
